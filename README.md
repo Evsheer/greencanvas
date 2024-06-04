@@ -2,6 +2,6 @@
 :---------|:------:| ----------------:
 10 | 11| 26
 
-[Время](http://google.com)
+[Время](https://smapse.ru/samyj-cennyj-resurs-cheloveka-vremya-pochemu/)
 
 ![matrix](/Img/img3.jpeg)
